@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/haze_theme/static/css/main.2f1b4222.chunk.css",
+    "main.js": "/haze_theme/static/js/main.29e37409.chunk.js",
+    "main.js.map": "/haze_theme/static/js/main.29e37409.chunk.js.map",
+    "runtime-main.js": "/haze_theme/static/js/runtime-main.d31499f8.js",
+    "runtime-main.js.map": "/haze_theme/static/js/runtime-main.d31499f8.js.map",
+    "static/js/2.1d42a855.chunk.js": "/haze_theme/static/js/2.1d42a855.chunk.js",
+    "static/js/2.1d42a855.chunk.js.map": "/haze_theme/static/js/2.1d42a855.chunk.js.map",
+    "index.html": "/haze_theme/index.html",
+    "precache-manifest.48489a0f02bd71fa1ca97ca8423ce4c7.js": "/haze_theme/precache-manifest.48489a0f02bd71fa1ca97ca8423ce4c7.js",
+    "service-worker.js": "/haze_theme/service-worker.js",
+    "static/css/main.2f1b4222.chunk.css.map": "/haze_theme/static/css/main.2f1b4222.chunk.css.map",
+    "static/js/2.1d42a855.chunk.js.LICENSE.txt": "/haze_theme/static/js/2.1d42a855.chunk.js.LICENSE.txt",
+    "static/media/about-us.jpg": "/haze_theme/static/media/about-us.f53f90b1.jpg",
+    "static/media/style.css": "/haze_theme/static/media/hero-bg.6d009055.jpg",
+    "static/media/member-1.jpg": "/haze_theme/static/media/member-1.d878b635.jpg",
+    "static/media/member-2.jpg": "/haze_theme/static/media/member-2.a808b7c8.jpg",
+    "static/media/member-3.jpg": "/haze_theme/static/media/member-3.79020031.jpg",
+    "static/media/portfolio-1.jpg": "/haze_theme/static/media/portfolio-1.145078dd.jpg",
+    "static/media/portfolio-2.jpg": "/haze_theme/static/media/portfolio-2.cd1042b9.jpg",
+    "static/media/portfolio-3.jpg": "/haze_theme/static/media/portfolio-3.bb9ca2d8.jpg",
+    "static/media/portfolio-4.jpg": "/haze_theme/static/media/portfolio-4.9b29b092.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d31499f8.js",
+    "static/js/2.1d42a855.chunk.js",
+    "static/css/main.2f1b4222.chunk.css",
+    "static/js/main.29e37409.chunk.js"
+  ]
+}
